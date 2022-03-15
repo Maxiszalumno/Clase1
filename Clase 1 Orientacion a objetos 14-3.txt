@@ -1,0 +1,21 @@
+Java 
+
+Lenguaje libre (Cualquiera tiene la libertad de hacer un compilador)
+Abarca cualquier compilador (Oracle, IBM, etc)
+
+Compilador: Es el que va a ejecutar ese software que creamos. (Adoptopenjdk,oraclejdk, openjdk,etc)
+
+Comunidad (Java Comunity Process)
+www.jcp.org 
+
+Version del JDK: LTS Long Term Support 8 años  / NO LTS soporte por 6 años
+
+IDE Integrated Development Enviroment: Nos ayuda en la compilacion (Puntos y comas, funciones, etc)
+
+Visual Studio Code (Es el IDE) <-- Libre
+
+Editor: Geany  <-- Libre
+
+Sts (Spring tools) <-- Libre
+
+IntelliJ (Privado)
